@@ -1,0 +1,23 @@
+*{
+  background-color:black;
+}
+
+img {
+  border: 1px solid yellow;
+  border-radius: 4px;
+  padding: 5px;
+  width: 95%;
+}
+p {
+  text-align: center;
+  color: yellow;
+  text-decoration: underline;
+  text-decoration-color: skyblue;
+  text-decoration-style: double;
+  text-decoration-thickness:4px;
+  font-family: Arial,Verdana,Tahoma;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  font-size:3rem
+}
